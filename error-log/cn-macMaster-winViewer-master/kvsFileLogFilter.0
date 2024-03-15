@@ -1,0 +1,32 @@
+2024-03-15 11:56:50.977 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:56:51.980 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:56:52.982 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:56:54.451 PROFILE initSignaling(): [Signaling Get token] 0 ms
+2024-03-15 11:56:54.451 PROFILE initSignaling(): [Signaling Describe] 0 ms
+2024-03-15 11:56:54.451 PROFILE initSignaling(): [Signaling Describe Media] 0 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling Create Channel] 0 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling Get endpoint] 0 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling Get ICE config] 1697 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling Connect] 1767 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling create client] 0 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling fetch client] 1697 ms
+2024-03-15 11:56:54.452 PROFILE initSignaling(): [Signaling connect client] 1767 ms
+2024-03-15 11:57:17.284 PROFILE getIpWithHostName(): ICE Server address for stun.kinesisvideo.cn-north-1.amazonaws.com.cn with getaddrinfo: 52.81.231.164
+2024-03-15 11:57:17.284 PROFILE createIceAgent(): [ICE server parsing] Time taken: 15 ms
+2024-03-15 11:57:17.284 PROFILE getIpWithHostName(): ICE Server address for 140-179-181-236.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn: 140.179.181.236
+2024-03-15 11:57:17.284 PROFILE createIceAgent(): [ICE server parsing] Time taken: 0 ms
+2024-03-15 11:57:17.284 PROFILE getIpWithHostName(): ICE Server address for 140-179-181-236.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn: 140.179.181.236
+2024-03-15 11:57:17.284 PROFILE createIceAgent(): [ICE server parsing] Time taken: 0 ms
+2024-03-15 11:57:17.284 PROFILE getIpWithHostName(): ICE Server address for 140-179-181-236.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn: 140.179.181.236
+2024-03-15 11:57:17.284 PROFILE createIceAgent(): [ICE server parsing] Time taken: 0 ms
+2024-03-15 11:57:17.284 PROFILE createPeerConnection(): [Peer connection object creation time] Time taken: 17 ms
+2024-03-15 11:57:17.286 PROFILE iceAgentStartGathering(): [Host candidate gathering from local interfaces] Time taken: 0 ms
+2024-03-15 11:57:17.286 PROFILE iceAgentStartGathering(): [Host candidates setup time] Time taken: 0 ms
+2024-03-15 11:57:17.286 PROFILE iceAgentStartGathering(): [Srflx candidates setup time] Time taken: 0 ms
+2024-03-15 11:57:17.287 PROFILE iceAgentStartGathering(): [Relay candidates setup time] Time taken: 0 ms
+2024-03-15 11:57:17.309 PROFILE sendSignalingMessage(): [Signaling offer received to answer sent time] 41 ms
+2024-03-15 11:57:17.466 PROFILE socketConnectionTlsSessionOnStateChange(): [TLS handshake time] Time taken: 104 ms
+2024-03-15 11:57:17.669 PROFILE iceAgentGatherCandidateTimerCallback(): [Candidate gathering time] Time taken: 382 ms
+2024-03-15 11:57:18.090 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:57:27.380 PROFILE closePeerConnection(): [Close peer connection] Time taken: 52 ms
+2024-03-15 11:57:27.385 PROFILE freePeerConnection(): [Free peer connection] Time taken: 5 ms

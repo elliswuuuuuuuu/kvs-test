@@ -1,0 +1,41 @@
+2024-03-15 11:57:27.272 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:27.274 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:27.274 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:27.274 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:27.274 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.274 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:27.274 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:27.327 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:27.327 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:27.327 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:27.327 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:27.327 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:27.327 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000040, Current local state retry count [0], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.327 ERROR   executeFailedIceAgentState(): IceAgent failed with 0x5a00000d
+2024-03-15 11:57:27.327 INFO    stepIceAgentStateMachine(): Ice agent state changed from ICE_AGENT_STATE_CHECK_CONNECTION to ICE_AGENT_STATE_FAILED.
+2024-03-15 11:57:27.327 INFO    onConnectionStateChange(): New connection state 5
+2024-03-15 11:57:27.327 DEBUG   onConnectionStateChange(): p2p connection disconnected
+2024-03-15 11:57:27.327 DEBUG   freeSampleStreamingSession(): Freeing streaming session with peer id: ConsumerViewer_1764 
+2024-03-15 11:57:27.327 DEBUG   socketConnectionClosed(): Close socket 16
+2024-03-15 11:57:27.327 DEBUG   socketConnectionClosed(): Close socket 13
+2024-03-15 11:57:27.380 DEBUG   freeSocketConnection(): close socket with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:27.380 DEBUG   freeSocketConnection(): close socket connected with ip: 140.179.181.236:443. family:1
+2024-03-15 11:57:27.384 DEBUG   freeSocketConnection(): close socket with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:27.384 DEBUG   freeSocketConnection(): close socket connected with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket with ip: 192.168.0.101:64859. family:1
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket connected with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket with ip: 0.0.1.1:54998. family:1
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket connected with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket with ip: 0.0.1.1:56774. family:1
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket connected with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket with ip: 192.168.0.101:61370. family:1
+2024-03-15 11:57:27.385 DEBUG   freeSocketConnection(): close socket connected with ip: 0000:0000:0000:0000:0000:0000:0000:0000:0. family:0
+2024-03-15 11:57:41.006 INFO    main(): [KVS Master] Streaming session terminated
+2024-03-15 11:57:41.006 INFO    main(): [KVS Master] Cleaning up....
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): Signaling client connection duration: 51556 ms
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): Number of signaling client API errors: 0
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): Number of runtime errors in the session: 0
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): Signaling client uptime: 51556 ms
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): Control Plane API call latency: 0 ms
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): Data Plane API call latency: 84 ms
+2024-03-15 11:57:46.008 DEBUG   logSignalingClientStats(): API call retry count: 0

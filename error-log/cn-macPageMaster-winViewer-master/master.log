@@ -1,0 +1,198 @@
+[2024-03-15T11:51:37.566Z] [INFO] [FORM_VALUES] Running the sample with the following options: {
+  "region": "cn-north-1",
+  "channelName": "myChannel",
+  "clientId": "OXJMRS9E8V",
+  "sendVideo": true,
+  "sendAudio": false,
+  "streamName": "",
+  "ingestMedia": false,
+  "showJSSButton": false,
+  "openDataChannel": false,
+  "widescreen": true,
+  "fullscreen": false,
+  "useTrickleICE": true,
+  "natTraversalDisabled": false,
+  "forceSTUN": false,
+  "forceTURN": false,
+  "accessKeyId": "********************",
+  "endpoint": null,
+  "secretAccessKey": "****************************************",
+  "enableDQPmetrics": false,
+  "enableProfileTimeline": false,
+  "sendHostCandidates": true,
+  "acceptHostCandidates": true,
+  "sendRelayCandidates": true,
+  "acceptRelayCandidates": true,
+  "sendSrflxCandidates": true,
+  "acceptSrflxCandidates": true,
+  "sendPrflxCandidates": true,
+  "acceptPrflxCandidates": true,
+  "sendTcpCandidates": true,
+  "acceptTcpCandidates": true,
+  "sendUdpCandidates": true,
+  "acceptUdpCandidates": true
+}
+[2024-03-15T11:51:37.976Z] [INFO] [MASTER] Channel ARN: arn:aws-cn:kinesisvideo:cn-north-1:742019392187:channel/myChannel/1710408867606
+[2024-03-15T11:51:37.977Z] [INFO] [MASTER] Not using media ingestion feature.
+[2024-03-15T11:51:38.381Z] [INFO] [MASTER] Endpoints: {
+  "HTTPS": "https://r-f9968007.kinesisvideo.cn-north-1.amazonaws.com.cn",
+  "WSS": "wss://m-38cfd552.kinesisvideo.cn-north-1.amazonaws.com.cn"
+}
+[2024-03-15T11:51:39.320Z] [INFO] [MASTER] ICE servers: [
+  {
+    "urls": "stun:stun.kinesisvideo.cn-north-1.amazonaws.com:443"
+  },
+  {
+    "urls": [
+      "turn:52-81-187-250.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn:443?transport=udp",
+      "turns:52-81-187-250.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn:443?transport=udp",
+      "turns:52-81-187-250.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn:443?transport=tcp"
+    ],
+    "username": "1710503799:djE6YXJuOmF3cy1jbjpraW5lc2lzdmlkZW86Y24tbm9ydGgtMTo3NDIwMTkzOTIxODc6Y2hhbm5lbC9teUNoYW5uZWwvMTcxMDQwODg2NzYwNg==",
+    "credential": "0a3s2c+D8F7aG78+M9YmTzh2gm65h2Yemb1EeUF35JM="
+  },
+  {
+    "urls": [
+      "turn:54-223-198-81.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn:443?transport=udp",
+      "turns:54-223-198-81.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn:443?transport=udp",
+      "turns:54-223-198-81.t-89e91582.kinesisvideo.cn-north-1.amazonaws.com.cn:443?transport=tcp"
+    ],
+    "username": "1710503799:djE6YXJuOmF3cy1jbjpraW5lc2lzdmlkZW86Y24tbm9ydGgtMTo3NDIwMTkzOTIxODc6Y2hhbm5lbC9teUNoYW5uZWwvMTcxMDQwODg2NzYwNg==",
+    "credential": "7N3d0i1LJRq7l2K+vNtj6uri5gb5aBeaVz8ZtnBy0DI="
+  }
+]
+[2024-03-15T11:51:40.609Z] [INFO] [MASTER] Starting master connection
+[2024-03-15T11:51:42.345Z] [INFO] [MASTER] Connected to signaling service
+[2024-03-15T11:51:42.346Z] [INFO] [MASTER] Waiting for peers to join...
+[2024-03-15T11:51:56.936Z] [INFO] [MASTER] Received SDP offer from client: ConsumerViewer_26123
+[2024-03-15T11:51:56.937Z] [DEBUG] SDP offer: {
+  "type": "offer",
+  "sdp": "v=0\r\no=- 24994 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=ice-options:trickle\r\na=msid-semantic: WMS myKvsVideoStream\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 127.0.0.1\r\na=candidate:0 1 udp 2130706431 10.0.3.46 61026 typ host raddr 0.0.0.0 rport 0 generation 0 network-cost 999\r\na=msid:myKvsVideoStream myAudioTrack\r\na=ssrc:16369 cname:lKknUcKhqPO4tjDQ\r\na=ssrc:16369 msid:myKvsVideoStream myAudioTrack\r\na=ssrc:16369 mslabel:myKvsVideoStream\r\na=ssrc:16369 label:myAudioTrack\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dGAc\r\na=ice-pwd:abYV+BO9VHCK4FCf3Ks+CWTe\r\na=ice-options:trickle\r\na=fingerprint:sha-256 65:9B:A9:93:17:E3:A3:57:DA:25:0F:D2:95:FD:23:FE:A3:79:C3:5C:7D:40:8B:27:2D:E7:52:60:B4:02:87:28\r\na=setup:actpass\r\na=mid:0\r\na=sendrecv\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=ssrc:16369 cname:lKknUcKhqPO4tjDQ\r\na=ssrc:16369 msid:myKvsVideoStream myAudioTrack\r\na=rtcp-fb:111 goog-remb\r\nm=video 9 UDP/TLS/RTP/SAVPF 125\r\nc=IN IP4 127.0.0.1\r\na=candidate:0 1 udp 2130706431 10.0.3.46 61026 typ host raddr 0.0.0.0 rport 0 generation 0 network-cost 999\r\na=msid:myKvsVideoStream myVideoTrack\r\na=ssrc:4893 cname:lKknUcKhqPO4tjDQ\r\na=ssrc:4893 msid:myKvsVideoStream myVideoTrack\r\na=ssrc:4893 mslabel:myKvsVideoStream\r\na=ssrc:4893 label:myVideoTrack\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dGAc\r\na=ice-pwd:abYV+BO9VHCK4FCf3Ks+CWTe\r\na=ice-options:trickle\r\na=fingerprint:sha-256 65:9B:A9:93:17:E3:A3:57:DA:25:0F:D2:95:FD:23:FE:A3:79:C3:5C:7D:40:8B:27:2D:E7:52:60:B4:02:87:28\r\na=setup:actpass\r\na=mid:1\r\na=sendrecv\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 nack pli\r\na=rtcp-fb:125 nack pli\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=ssrc:4893 cname:lKknUcKhqPO4tjDQ\r\na=ssrc:4893 msid:myKvsVideoStream myVideoTrack\r\na=rtcp-fb:125 goog-remb\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 127.0.0.1\r\na=candidate:0 1 udp 2130706431 10.0.3.46 61026 typ host raddr 0.0.0.0 rport 0 generation 0 network-cost 999\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:dGAc\r\na=ice-pwd:abYV+BO9VHCK4FCf3Ks+CWTe\r\na=ice-options:trickle\r\na=fingerprint:sha-256 65:9B:A9:93:17:E3:A3:57:DA:25:0F:D2:95:FD:23:FE:A3:79:C3:5C:7D:40:8B:27:2D:E7:52:60:B4:02:87:28\r\na=setup:actpass\r\na=mid:2\r\na=sctp-port:5000\r\n"
+}
+[2024-03-15T11:51:56.945Z] [INFO] [MASTER] Received remote track from client: ConsumerViewer_26123
+[2024-03-15T11:51:56.947Z] [INFO] [MASTER] Received remote track from client: ConsumerViewer_26123
+[2024-03-15T11:51:56.948Z] [INFO] [MASTER] Creating SDP answer for client: ConsumerViewer_26123
+[2024-03-15T11:51:56.956Z] [INFO] [MASTER] Sending SDP answer to client: ConsumerViewer_26123
+[2024-03-15T11:51:56.957Z] [DEBUG] SDP answer: {
+  "type": "answer",
+  "sdp": "v=0\r\no=- 6541006225524490063 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1 2\r\na=msid-semantic: WMS ccb1c34f-ce71-4d82-8099-c1d8d7ace657\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:MLg7\r\na=ice-pwd:Lrx/nTVmFoSd8S9apATHK44x\r\na=ice-options:trickle\r\na=fingerprint:sha-256 CB:BE:BA:DC:EB:03:6B:F6:63:4F:FC:9A:69:76:00:86:58:14:65:F4:39:57:FE:DF:16:B9:9D:E6:9D:4E:BD:0F\r\na=setup:active\r\na=mid:0\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\nm=video 9 UDP/TLS/RTP/SAVPF 125\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:MLg7\r\na=ice-pwd:Lrx/nTVmFoSd8S9apATHK44x\r\na=ice-options:trickle\r\na=fingerprint:sha-256 CB:BE:BA:DC:EB:03:6B:F6:63:4F:FC:9A:69:76:00:86:58:14:65:F4:39:57:FE:DF:16:B9:9D:E6:9D:4E:BD:0F\r\na=setup:active\r\na=mid:1\r\na=sendrecv\r\na=msid:ccb1c34f-ce71-4d82-8099-c1d8d7ace657 f21808aa-c21f-4790-b073-e406b071ab0f\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=ssrc:506247038 cname:nM9g+YORD/t4pXQw\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:MLg7\r\na=ice-pwd:Lrx/nTVmFoSd8S9apATHK44x\r\na=ice-options:trickle\r\na=fingerprint:sha-256 CB:BE:BA:DC:EB:03:6B:F6:63:4F:FC:9A:69:76:00:86:58:14:65:F4:39:57:FE:DF:16:B9:9D:E6:9D:4E:BD:0F\r\na=setup:active\r\na=mid:2\r\na=sctp-port:5000\r\n"
+} correlationId: 1710503516957
+[2024-03-15T11:51:56.958Z] [INFO] [MASTER] Generating ICE candidates for client: ConsumerViewer_26123
+[2024-03-15T11:51:56.960Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:56.960Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:408314707 1 udp 2122260223 192.168.0.101 52434 typ host generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:56.960Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:56.960Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:56.961Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:65347940 1 udp 2122194687 0.0.1.1 55299 typ host generation 0 ufrag MLg7 network-id 2 network-cost 50",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:56.961Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:56.961Z] [DEBUG] [MASTER] PeerConnection state: connecting
+[2024-03-15T11:51:57.084Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:57.085Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:1721336267 1 tcp 1518280447 192.168.0.101 9 typ host tcptype active generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:57.085Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:57.085Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:57.086Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:2099954684 1 tcp 1518214911 0.0.1.1 9 typ host tcptype active generation 0 ufrag MLg7 network-id 2 network-cost 50",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:57.086Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:57.103Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:57.104Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:3158809182 1 udp 41886975 52.81.187.250 62736 typ relay raddr 27.38.192.245 rport 15222 generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:57.104Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:57.345Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:57.346Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:284552397 1 udp 41886207 54.223.198.81 51464 typ relay raddr 27.38.192.245 rport 15222 generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:57.346Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:58.717Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:58.718Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:557103650 1 udp 8266495 52.81.187.250 49186 typ relay raddr 104.243.24.99 rport 37365 generation 0 ufrag MLg7 network-id 2 network-cost 50",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:58.718Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:58.825Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:58.825Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:557103650 1 udp 8332031 52.81.187.250 54245 typ relay raddr 104.243.24.99 rport 32873 generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:58.825Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:58.829Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:58.829Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:557103650 1 udp 8332287 52.81.187.250 52886 typ relay raddr 104.243.24.99 rport 48088 generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:58.829Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:58.840Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:58.840Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:557103650 1 udp 8266751 52.81.187.250 57847 typ relay raddr 104.243.24.99 rport 55965 generation 0 ufrag MLg7 network-id 2 network-cost 50",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:58.840Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:59.520Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:59.520Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:2374421681 1 udp 8331263 54.223.198.81 51730 typ relay raddr 104.243.24.99 rport 49906 generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:59.520Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:59.570Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:59.572Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:2374421681 1 udp 8265983 54.223.198.81 62841 typ relay raddr 104.243.24.99 rport 41919 generation 0 ufrag MLg7 network-id 2 network-cost 50",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:59.572Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:59.585Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:59.585Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:2374421681 1 udp 8265727 54.223.198.81 63202 typ relay raddr 104.243.24.99 rport 55209 generation 0 ufrag MLg7 network-id 2 network-cost 50",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:59.585Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:51:59.608Z] [INFO] [MASTER] Generated ICE candidate for client: ConsumerViewer_26123
+[2024-03-15T11:51:59.609Z] [DEBUG] ICE candidate: {
+  "candidate": "candidate:2374421681 1 udp 8331519 54.223.198.81 59001 typ relay raddr 104.243.24.99 rport 32971 generation 0 ufrag MLg7 network-id 1 network-cost 10",
+  "sdpMid": "0",
+  "sdpMLineIndex": 0,
+  "usernameFragment": "MLg7"
+}
+[2024-03-15T11:51:59.609Z] [INFO] [MASTER] Sending ICE candidate to client: ConsumerViewer_26123
+[2024-03-15T11:52:12.021Z] [DEBUG] [MASTER] PeerConnection state: failed
+[2024-03-15T11:52:12.023Z] [ERROR] [MASTER] Connection to ConsumerViewer_26123 failed!
+[2024-03-15T11:52:29.162Z] [INFO] [MASTER] Stopping master connection
+[2024-03-15T11:52:29.579Z] [INFO] [MASTER] Disconnected from signaling channel
+

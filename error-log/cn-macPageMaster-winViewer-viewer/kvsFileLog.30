@@ -1,0 +1,14 @@
+2024-03-15 11:52:09.379 VERBOSE stepStateMachine(): [TURN-0000022DD5663E90] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.426 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.488 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.551 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.567 VERBOSE rtcpReportsCallback(): sender report no frames sent 4893
+2024-03-15 11:52:09.582 VERBOSE rtcpReportsCallback(): sender report no frames sent 16369
+2024-03-15 11:52:09.613 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.676 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.738 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.801 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.848 VERBOSE rtcpReportsCallback(): sender report no frames sent 4893
+2024-03-15 11:52:09.863 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:52:09.863 VERBOSE rtcpReportsCallback(): sender report no frames sent 16369
+2024-03-15 11:52:09.863 INFO    main(): [KVS Viewer] Cleaning up....

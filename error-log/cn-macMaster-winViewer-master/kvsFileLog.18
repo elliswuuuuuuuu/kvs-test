@@ -1,0 +1,77 @@
+2024-03-15 11:57:25.280 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.333 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.333 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.333 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.333 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.333 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.333 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.333 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.333 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.388 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.388 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.388 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.388 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.388 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.388 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.388 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.388 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.443 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.443 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.443 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.443 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.443 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.443 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.443 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.443 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.479 VERBOSE rtcpReportsCallback(): sender report no frames sent 272366404
+2024-03-15 11:57:25.493 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.493 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.493 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.493 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.493 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.493 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.493 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.493 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.548 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.548 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.548 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.548 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.548 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.548 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.548 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.548 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.548 VERBOSE rtcpReportsCallback(): sender report no frames sent 744463918
+2024-03-15 11:57:25.603 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.603 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.603 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.603 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.603 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.603 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.603 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.603 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.658 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.658 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.658 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.658 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.658 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.658 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.658 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.658 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.713 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.713 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.713 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.713 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.713 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.713 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.713 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.713 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.768 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: pXDqiR6RT V0cSTxovb, state: 2
+2024-03-15 11:57:25.768 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: wUE9K+iOq V0cSTxovb, state: 4
+2024-03-15 11:57:25.768 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: FWu2plCS/ V0cSTxovb, state: 2
+2024-03-15 11:57:25.768 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: cLaTMz+8H V0cSTxovb, state: 4
+2024-03-15 11:57:25.768 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: mHc6tRE/+ V0cSTxovb, state: 4
+2024-03-15 11:57:25.768 VERBOSE stepStateMachine(): State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:25.768 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:192.168.0.101, port:61370
+2024-03-15 11:57:25.768 DEBUG   iceCandidatePairCheckConnection(): remote ip:10.0.3.46, port:61038, local ip:27.38.192.245, port:14360
+2024-03-15 11:57:25.781 VERBOSE rtcpReportsCallback(): sender report no frames sent 272366404
+2024-03-15 11:57:25.805 VERBOSE rtcpReportsCallback(): sender report no frames sent 744463918

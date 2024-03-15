@@ -1,0 +1,77 @@
+2024-03-15 11:57:27.613 VERBOSE rtcpReportsCallback(): sender report no frames sent 8327
+2024-03-15 11:57:27.660 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:27.660 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.660 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:27.660 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.660 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.722 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:27.722 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.722 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:27.722 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.722 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.753 VERBOSE rtcpReportsCallback(): sender report no frames sent 9188
+2024-03-15 11:57:27.753 VERBOSE rtcpReportsCallback(): sender report no frames sent 8327
+2024-03-15 11:57:27.785 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:27.785 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.785 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:27.785 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.785 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.847 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:27.847 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.847 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:27.847 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.847 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.910 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:27.910 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.910 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:27.910 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.910 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:27.910 VERBOSE rtcpReportsCallback(): sender report no frames sent 8327
+2024-03-15 11:57:27.925 VERBOSE rtcpReportsCallback(): sender report no frames sent 9188
+2024-03-15 11:57:27.972 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:27.972 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.972 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:27.972 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:27.972 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.035 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.035 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.035 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.035 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.035 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.097 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.097 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.097 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.097 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.097 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.097 VERBOSE rtcpReportsCallback(): sender report no frames sent 8327
+2024-03-15 11:57:28.160 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.160 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.160 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.160 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.160 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.175 VERBOSE rtcpReportsCallback(): sender report no frames sent 9188
+2024-03-15 11:57:28.222 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.222 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.222 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.222 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.222 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.222 VERBOSE rtcpReportsCallback(): sender report no frames sent 8327
+2024-03-15 11:57:28.285 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.285 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.285 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.285 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.285 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.347 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.347 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.347 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.347 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.347 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.410 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.410 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.410 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
+2024-03-15 11:57:28.410 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.410 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:57:28.425 VERBOSE rtcpReportsCallback(): sender report no frames sent 9188
+2024-03-15 11:57:28.472 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW G9nnxfhpc, state: 4
+2024-03-15 11:57:28.472 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: upxf+LziW fZ+4XiMkI, state: 4
+2024-03-15 11:57:28.472 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: kp4a/gWBJ G9nnxfhpc, state: 4
