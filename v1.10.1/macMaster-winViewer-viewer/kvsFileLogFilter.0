@@ -1,0 +1,58 @@
+2024-03-15 11:27:02.068 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 14 ms
+2024-03-15 11:27:02.084 PROFILE resolveStunIceServerIp(): [STUN DNS resolution time taken] Time taken: 15 ms
+2024-03-15 11:27:02.084 PROFILE executeGetTokenSignalingState(): [Get token call] Time taken: 0 ms
+2024-03-15 11:27:02.084 PROFILE createSignalingClientSync(): [Create signaling client] Time taken: 15 ms
+2024-03-15 11:27:02.084 PROFILE executeDescribeSignalingState(): [Describe signaling call] Time taken: 0 ms
+2024-03-15 11:27:02.084 PROFILE executeGetEndpointSignalingState(): [Get endpoint signaling call] Time taken: 0 ms
+2024-03-15 11:27:02.100 PROFILE signalingClientFetchSync(): [Fetch signaling client] Time taken: 15 ms
+2024-03-15 11:27:02.195 PROFILE executeConnectSignalingState(): [Connect signaling call] Time taken: 95 ms
+2024-03-15 11:27:02.195 PROFILE signalingClientConnectSync(): [Connect signaling client] Time taken: 95 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Get token] 0 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Describe] 0 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Describe Media] 0 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Create Channel] 0 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Get endpoint] 0 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Get ICE config] 0 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling Connect] 95 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling create client] 15 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling fetch client] 15 ms
+2024-03-15 11:27:02.195 PROFILE initSignaling(): [Signaling connect client] 95 ms
+2024-03-15 11:27:02.195 PROFILE createDtlsSession(): [Create SSL Context] Time taken: 0 ms
+2024-03-15 11:27:02.195 PROFILE createDtlsSession(): [Create SSL session] Time taken: 0 ms
+2024-03-15 11:27:02.195 PROFILE createPeerConnection(): [Create DTLS Session object] Time taken: 0 ms
+2024-03-15 11:27:02.195 PROFILE createPeerConnection(): [Create connection listener] Time taken: 0 ms
+2024-03-15 11:27:02.211 PROFILE parseIceServer(): ICE Server address for stun.kinesisvideo.us-east-1.amazonaws.com: 3.217.8.220
+2024-03-15 11:27:02.211 PROFILE createIceAgent(): [ICE server parsing] Time taken: 15 ms
+2024-03-15 11:27:02.211 PROFILE createPeerConnection(): [Create ICE agent object] Time taken: 15 ms
+2024-03-15 11:27:02.211 PROFILE createPeerConnection(): [Peer connection object creation time] Time taken: 15 ms
+2024-03-15 11:27:02.211 PROFILE iceAgentStartGathering(): [Host candidate gathering from local interfaces] Time taken: 0 ms
+2024-03-15 11:27:02.211 PROFILE iceAgentStartGathering(): [Host candidates setup time] Time taken: 0 ms
+2024-03-15 11:27:02.211 PROFILE iceAgentStartGathering(): [Srflx candidates setup time] Time taken: 0 ms
+2024-03-15 11:27:02.307 PROFILE iceAgentGatherCandidateTimerCallback(): [Candidate gathering time] Time taken: 96 ms
+2024-03-15 11:27:03.065 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:27:04.066 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:27:05.068 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-03-15 11:27:12.287 PROFILE executeGetIceConfigSignalingState(): [Get ICE config signaling call] Time taken: 10076 ms
+2024-03-15 11:27:12.287 PROFILE executeConnectSignalingState(): [Connect signaling call] Time taken: 0 ms
+2024-03-15 11:27:12.287 PROFILE parseIceServer(): ICE Server address for 54-175-115-60.t-7a2c78fb.kinesisvideo.us-east-1.amazonaws.com: 54.175.115.60
+2024-03-15 11:27:12.287 PROFILE iceAgentAddConfig(): [ICE server parsing] Time taken: 0 ms
+2024-03-15 11:27:12.302 PROFILE parseIceServer(): ICE Server address for 54-175-115-60.t-7a2c78fb.kinesisvideo.us-east-1.amazonaws.com: 54.175.115.60
+2024-03-15 11:27:12.302 PROFILE iceAgentAddConfig(): [ICE server parsing] Time taken: 0 ms
+2024-03-15 11:27:12.302 PROFILE parseIceServer(): ICE Server address for 54-175-115-60.t-7a2c78fb.kinesisvideo.us-east-1.amazonaws.com: 54.175.115.60
+2024-03-15 11:27:12.302 PROFILE iceAgentAddConfig(): [ICE server parsing] Time taken: 0 ms
+2024-03-15 11:27:12.443 PROFILE turnConnectionHandleStunError(): [000001C7A4548110 - TURN Get Credentials] Time taken: 124 ms
+2024-03-15 11:27:12.443 PROFILE turnConnectionHandleStunError(): [000001C7A4548110 - TURN Get Credentials] Time taken: 124 ms
+2024-03-15 11:27:12.443 PROFILE turnConnectionHandleStunError(): [000001C7A4548110 - TURN Get Credentials] Time taken: 124 ms
+2024-03-15 11:27:12.443 PROFILE turnConnectionHandleStunError(): [000001C7A4548110 - TURN Get Credentials] Time taken: 124 ms
+2024-03-15 11:27:12.443 PROFILE turnConnectionHandleStun(): [000001C7A4548110 - 54.175.115.60:14586 - TURN allocation] Time taken: 0 ms
+2024-03-15 11:27:12.443 PROFILE turnConnectionHandleStun(): [000001C7A4548110 - 54.175.115.60:14586 - TURN allocation] Time taken: 0 ms
+2024-03-15 11:27:12.568 PROFILE socketConnectionTlsSessionOnStateChange(): [TLS handshake time] Time taken: 249 ms
+2024-03-15 11:27:12.568 PROFILE turnConnectionHandleStunError(): [000001C7A4579800 - TURN Get Credentials] Time taken: 249 ms
+2024-03-15 11:27:12.568 PROFILE turnConnectionHandleStun(): [000001C7A4579800 - 54.175.115.60:32732 - TURN allocation] Time taken: 0 ms
+2024-03-15 11:27:12.584 PROFILE turnConnectionHandleStun(): [000001C7A4579800 - 54.175.115.60:32732 - TURN allocation] Time taken: 15 ms
+2024-03-15 11:27:12.787 PROFILE receiveLwsMessageWrapper(): [Offer Sent to Answer Received time] Time taken: 453 ms
+2024-03-15 11:27:12.802 PROFILE signalingMessageReceived(): [Signaling offer sent to answer received time] 453 ms
+2024-03-15 11:27:13.130 PROFILE turnConnectionHandleStun(): [000001C7A4548110 - 27.38.192.245:56123 - TURN create permission] Time taken: 0 ms
+2024-03-15 11:27:13.130 PROFILE turnConnectionHandleStun(): [000001C7A4579800 - 27.38.192.245:56123 - TURN create permission] Time taken: 0 ms
+2024-03-15 11:27:13.193 PROFILE turnConnectionHandleStun(): [000001C7A4548110 - 27.38.192.245:56123:16387 - TURN bind channel] Time taken: 0 ms
+2024-03-15 11:27:13.193 PROFILE turnConnectionHandleStun(): [000001C7A4579800 - 27.38.192.245:56123:16387 - TURN bind channel] Time taken: 0 ms

@@ -1,0 +1,60 @@
+2024-03-15 11:36:36.537 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.537 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.537 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.537 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.537 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.537 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.585 VERBOSE rtcpReportsCallback(): sender report no frames sent 17704
+2024-03-15 11:36:36.600 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.600 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.600 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.600 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.600 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.600 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.600 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.631 VERBOSE rtcpReportsCallback(): sender report no frames sent 21076
+2024-03-15 11:36:36.663 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.663 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.663 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.663 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.663 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.663 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.663 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.725 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.725 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.725 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.725 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.725 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.725 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.725 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.788 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.788 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.788 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.788 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.790 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.790 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.790 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.838 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.838 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.838 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.838 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.838 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.838 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.838 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.838 VERBOSE rtcpReportsCallback(): sender report no frames sent 17704
+2024-03-15 11:36:36.901 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.901 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.901 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.901 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.901 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.901 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.901 VERBOSE stepStateMachine(): [TURN-0000020357028EF0] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000020, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.933 VERBOSE rtcpReportsCallback(): sender report no frames sent 21076
+2024-03-15 11:36:36.965 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.965 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: bQjIsz1Uu PaUDS6t7U, state: 4
+2024-03-15 11:36:36.965 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 fZ+4XiMkI, state: 4
+2024-03-15 11:36:36.965 DEBUG   fromCheckConnectionIceAgentState(): Checking pair: 7rBKCTnJ0 PaUDS6t7U, state: 4
+2024-03-15 11:36:36.965 VERBOSE stepStateMachine(): [ICE] State Machine - Current state: 0x0000000000000002, Next state: 0x0000000000000002, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.965 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000020, Next state: 0x0000000000000040, Current local state retry count [0], Max local state retry count [0], State transition wait time [0] ms
+2024-03-15 11:36:36.965 DEBUG   stepTurnConnectionStateMachine(): [0000020356FF7800] Turn connection state changed from TURN_STATE_BIND_CHANNEL to TURN_STATE_READY.
+2024-03-15 11:36:36.965 VERBOSE stepStateMachine(): [TURN-0000020356FF7800] State Machine - Current state: 0x0000000000000040, Next state: 0x0000000000000040, Current local state retry count [1], Max local state retry count [0], State transition wait time [0] ms
